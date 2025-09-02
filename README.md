@@ -118,6 +118,9 @@ streamlit run streamlitApp.py
 - "Kullanım istatistiklerimi göster"
 - "Ana menü" (geri dönmek için)
 
+<img width="1478" height="758" alt="model3" src="https://github.com/user-attachments/assets/7eb318d2-4359-4cb0-b2e8-000e07d38cad" />
+
+
 ## 📁 Proje Yapısı
 
 ```
